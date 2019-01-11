@@ -1,0 +1,32 @@
+VMware+ubuntu安装教程： 
+https://blog.csdn.net/stpeace/article/details/78598333
+
+无法获得 VMCI 驱动程序的版本: 句柄无效解决方法： 
+https://jingyan.baidu.com/article/a3a3f811ea5d2a8da2eb8aa1.html
+
+虚拟机全屏： 
+https://blog.csdn.net/JH_Zhai/article/details/79432016
+
+ubuntu sublime text3 python 配置： 
+https://blog.csdn.net/weiyumeizi/article/details/53455004
+https://www.jianshu.com/p/88b296ad1732
+
+ubuntu下安装Python3.5：
+https://blog.csdn.net/u010426270/article/details/51059260
+
+中文输入：
+https://github.com/lyfeyaj/sublime-text-imfix
+https://jingyan.baidu.com/article/3aed632e2905d8701080913f.html
+
+ubuntu 安装 pip 及 pip 常用命令：
+https://blog.csdn.net/danielpei1222/article/details/62969815
+python3.5 安装python3-tk：
+https://blog.csdn.net/qq_18293213/article/details/74483516
+
+登录密码：asd
+
+github
+账号：QQ邮箱/LinglanZhao
+密码：Zll894523
+
+
